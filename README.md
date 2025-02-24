@@ -7,8 +7,9 @@ Our platform helps teachers creating lesson plans that includes better methods o
 
 The platform plans the lessons, using **AI**. The teacher, very basiclly, asks for the AI to create a lesson plan according to the metirial & the skill he/she wants to teach, and the AI generates it!
 
->sdsfdsfdsff dlksksd
 
-## ***Developer Credits & Contributions***
+### ***Developer Credits & Contributions***
+Gabriel Eliav, Dear stuff & TA's
+
 
 
