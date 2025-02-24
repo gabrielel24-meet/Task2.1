@@ -9,3 +9,6 @@ The platform plans the lessons, using **AI**. The teacher, very basiclly, asks f
 
 >sdsfdsfdsff dlksksd
 
+## ***Developer Credits & Contributions***
+
+
