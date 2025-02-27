@@ -22,6 +22,9 @@ The teacher / directory will be able to supervise over students grades, developm
 * Teachers being able to supervise over students
 * Database for the surveys 
  
+## Future Roadmap
+Build & add all of the future features to the app, in order to have a final working app, that will help students to have a better, more relevent & funner education, and overall give students, teachers & administrators the best experience, in order to have a better future. 
+
 
 ### ***Developer Credits & Contributions***
 Gabriel Eliav, Dear stuff & TA's
