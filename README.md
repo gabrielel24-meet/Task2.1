@@ -35,7 +35,7 @@ In order to run the app create a new repository to this one and open it in VScod
 
 > for a full **Setup Guide**, open: https://docs.google.com/document/d/1kp8hMDCs646ifqWCwvjb5ooIg5OPhw1KL-zRlVymbow/edit?tab=t.0
 
-### ***Developer Credits & Contributions***
+## ***Developer Credits & Contributions**
 Gabriel Eliav, Dear stuff & TA's
 
 > https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D
